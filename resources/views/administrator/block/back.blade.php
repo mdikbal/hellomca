@@ -1,0 +1,1 @@
+<a class="btn btn-warning" href="{!! URL::route('areas.index')!!}">Back</a> 
